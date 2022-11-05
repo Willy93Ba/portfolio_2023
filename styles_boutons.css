@@ -1,0 +1,38 @@
+body 
+{
+	background-color:darkorange;text-align: center;
+}
+h1
+{
+	color: yellowgreen;
+	font-family: fantasy;
+	font-size: 2em;
+}
+div
+{
+	border: 5px solid yellowgreen;
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 26px;
+	padding: 15px 32px;
+}
+
+button
+{
+	width: 300px;
+	border: 2px solid yellowgreen;
+	border-radius: 26px;
+	background-color: darkorange;
+	height: 60px;
+	margin-top: 5px;
+}
+button:hover
+{
+	background-color: yellowgreen;
+	color: darkorange;
+	border: 2px solid darkgrey;
+	transform: rotate(5deg);
+	box-shadow: 25px;
+	cursor: pointer;
+}
