@@ -1,0 +1,120 @@
+body
+{
+background: lightslategray;
+margin-left: 25%;
+}
+
+div
+{
+margin-bottom: 10px;
+margin-top: 10px;
+border-radius: 8px;
+}
+
+.d1
+{
+border: 2px solid red;
+background-color: white;
+height:900px;
+width: 55%;
+}
+
+.d2
+{
+border: 2px solid navy;
+margin-left: 20px;
+width: 95%;
+height: 21%;
+}
+
+
+.d3
+{
+border: 2px solid navy;
+margin-left: 20px;
+width: 95%;
+height: 24%;
+}
+
+
+.d4
+{
+border: 2px solid navy;
+margin-left: 20px;
+width: 95%;
+height: 24%;
+}
+
+.d5
+{
+border: 2px solid navy;
+margin-left: 20px;
+width: 95%;
+height: 24%;
+}
+
+.d22
+{
+border: 2px solid white;
+margin-left: 20px;
+width: 70%;
+height: 50%;
+float: left;
+}
+.d222
+{
+border: 2px solid white;
+width: 25%;
+height: 50%;
+float: left;
+}
+
+.d33
+{
+border: 2px solid white;
+margin-left: 20px;
+width: 25%;
+height: 55%;
+float: left;
+}
+.d333
+{
+border: 2px solid white;
+width: 70%;
+height: 55%;
+float: left;
+}
+.d44
+{
+border: 2px solid white;
+margin-left: 20px;
+width: 25%;
+height: 55%;
+float: left;
+}
+.d444
+{
+border: 2px solid white;
+width: 70%;
+height: 55%;
+float: left;
+}
+.d55
+{
+border: 2px solid white;
+margin-left: 20px;
+width: 25%;
+height: 55%;
+float: left;
+}
+.d555
+{
+border: 2px solid white;
+width: 70%;
+height: 55%;
+float: left;
+}
+li
+{
+list-style: none;
+}

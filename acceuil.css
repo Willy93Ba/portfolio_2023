@@ -1,0 +1,14 @@
+div{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+
+}
+body
+{
+	overflow: hidden;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	border-color: transparent;
+}
